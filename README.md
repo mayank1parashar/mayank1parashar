@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Mayank Parashar 👋
 
-<!--
-**mayank1parashar/mayank1parashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Web Developer | Front-End Enthusiast | Creative Builder**
 
-Here are some ideas to get you started:
+I love turning ideas into interactive web experiences. From sustainability-focused apps to playful mini-games, I enjoy crafting projects that are both impactful and fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Tools:** React, Next.js, Node.js  
+- **Deployment:** Netlify, Vercel  
+- **Other Skills:** Responsive Web Design, Git/GitHub, UI/UX basics  
+
+---
+
+## 🌟 Featured Projects
+- **[NutriWaste Saver](https://github.com/mayank1parashar/NutriWaste-Saver)**  
+  *Because every meal matters.* A web app tackling food waste with a clean UI and sustainability focus.  
+
+- **[Amazon Clone](https://github.com/mayank1parashar/Amazonn)**  
+  A responsive front-end clone of Amazon built with HTML, CSS, and JavaScript for practice in layout and navigation.  
+
+- **Mini Games Hub** *(coming soon!)*  
+  Browser-based mini-games built with pure JS — fun, interactive, and lightweight.  
+
+---
+
+## 📊 GitHub Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank1parashar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1parashar&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: **mayank1parashar@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mayank-parashar](#) *(add your link)*  
+- 🐦 Twitter: [@yourhandle](#) *(optional)*  
+
+---
+
+💡 *“Code is like art — every line tells a story.”*  
+
