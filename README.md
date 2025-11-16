@@ -1,4 +1,6 @@
-# Hi there, I'm Mayank Parashar 👋
+
+
+<h1 align="center">Hi there, I'm Mayank Parashar 👋</h1>
 
 🚀 **Aspiring Web Developer | Front-End Enthusiast | Creative Builder**
 
@@ -6,27 +8,23 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 
 ---
 
-## 🔧 Tech Stack
+## <p align="center">🔧 Tech Stack</p>
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Tools:** React, Next.js, Node.js  
 - **Deployment:** Netlify, Vercel  
 - **Other Skills:** Responsive Web Design, Git/GitHub, UI/UX basics  
 
 ---
-
-## 🌟 Featured Projects
-- **[NutriWaste Saver](https://github.com/mayank1parashar/NutriWaste-Saver)**  
-  *Because every meal matters.* A web app tackling food waste with a clean UI and sustainability focus.  
-
-- **[Amazon Clone](https://github.com/mayank1parashar/Amazonn)**  
-  A responsive front-end clone of Amazon built with HTML, CSS, and JavaScript for practice in layout and navigation.  
-
-- **Mini Games Hub** *(coming soon!)*  
-  Browser-based mini-games built with pure JS — fun, interactive, and lightweight.  
+## <p align="center">🏆 Achievements</p>
+- 🌱 Built **NutriWaste Saver** during IIT Delhi visit — promoting sustainability through tech.
+- 💻 Created multiple **Amazon front-end clones** to sharpen responsive design skills.
+- 🚀 Deployed projects seamlessly on **Netlify & Vercel**.
+- 📈 69+ contributions in 2025 — showing consistent growth and dedication.
+ 
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center"> 📊 GitHub Stats </p>
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank1parashar&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1parashar&layout=compact&theme=radical)
@@ -37,6 +35,8 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 - 📧 Email: **mayank1parashar@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/mayank-parashar](#) *(add your link)*  
 - 🐦 Twitter: [@yourhandle](#) *(optional)*  
+
+---
 
 ---
 
