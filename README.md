@@ -19,15 +19,11 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 - 🌱 Built **NutriWaste Saver** during IIT Delhi visit — promoting sustainability through tech.
 - 💻 Created multiple **Amazon front-end clones** to sharpen responsive design skills.
 - 🚀 Deployed projects seamlessly on **Netlify & Vercel**.
-- 📈 69+ contributions in 2025 — showing consistent growth and dedication.
+- 📈 70+ contributions in 2025 — showing consistent growth and dedication.
  
 
 ---
 
-## <p align="center"> 📊 GitHub Stats </p>
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank1parashar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1parashar&layout=compact&theme=radical)
 
 ---
 
