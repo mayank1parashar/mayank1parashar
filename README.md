@@ -25,14 +25,12 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 ---
 
 
----
 
 ## 🌐 Connect With Me
 - 📧 Email: **mayank1parashar@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mayank-parashar](#) *(add your link)*  
-- 🐦 Twitter: [@yourhandle](#) *(optional)*  
+- 💼 LinkedIn: [linkedin.com/in/mayank1parashar](#) 
 
----
+
 
 ---
 
