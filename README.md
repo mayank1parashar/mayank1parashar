@@ -19,7 +19,7 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 - 🌱 Built **NutriWaste Saver** during IIT Delhi visit — promoting sustainability through tech.
 - 💻 Created multiple **Amazon front-end clones** to sharpen responsive design skills.
 - 🚀 Deployed projects seamlessly on **Netlify & Vercel**.
-- 📈 70+ contributions in 2025 — showing consistent growth and dedication.
+- 📈 75+ contributions in 2025 — showing consistent growth and dedication.
  
 
 ---
