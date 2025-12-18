@@ -24,5 +24,5 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 💡 *“Code is like art — every line tells a story.”*  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=22&duration=2000&pause=800&color=008080&center=true&vCenter=true&width=520&lines=Built+for+practice;By+Mayank+Parashar" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=28&duration=2000&pause=800&color=008080&center=true&vCenter=true&width=520&lines=Built+for+practice;By+Mayank+Parashar" alt="Typing Animation" />
 </p>
