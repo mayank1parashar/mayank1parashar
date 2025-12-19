@@ -17,9 +17,9 @@ I love turning ideas into interactive web experiences. From sustainability-focus
 - 🚀 Deployed projects seamlessly on **Netlify & Vercel**.
 - 📈 75+ contributions in 2025 — showing consistent growth and dedication.
  
-## 🌐 Connect With Me
+## <p align="center">🌐 Connect With Me </p>
 - 📧 Email: **mayank1parashar@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mayank1parashar](#) 
+- 💼 LinkedIn: [linkedin.com/in/mayank-parashar](#) 
 
 💡 *“Code is like art — every line tells a story.”*  
 
