@@ -1,9 +1,17 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!%20🌍&height=120&section=header&animation=fadeIn"/>
+</p>
 <h1 align="center">Hi there, I'm Mayank Parashar 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=636E72&center=true&vCenter=true&width=550&lines=Web+Developer+%7C+AI+Explorer+%7C+Designer;2nd+Year+CSE+Student;Love+Building+Cool+Projects+💡;Always+Learning+New+Things+🚀"/>
+</p>
 
-🚀 **Aspiring Web Developer | Front-End Enthusiast | Creative Builder**
 
-I love turning ideas into interactive web experiences. From sustainability-focused apps to playful mini-games, I enjoy crafting projects that are both impactful and fun.
+
+
+## <p align="center">🚀Turning Logic into Experience</p>
+
+- I love turning ideas into interactive web experiences. From sustainability-focused apps to playful mini-games, I enjoy crafting projects that are both impactful and fun.
 
 ## <p align="center">🔧 Tech Stack</p>
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
