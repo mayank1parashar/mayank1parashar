@@ -19,11 +19,7 @@
 - **Deployment:** Netlify, Vercel  
 - **Other Skills:** Responsive Web Design, Git/GitHub, UI/UX basics  
 
-## <p align="center">🏆 Achievements</p>
-- 🌱 Built **NutriWaste Saver** during IIT Delhi visit — promoting sustainability through tech.
-- 💻 Created multiple **Amazon front-end clones** to sharpen responsive design skills.
-- 🚀 Deployed projects seamlessly on **Netlify & Vercel**.
-- 📈 75+ contributions in 2025 — showing consistent growth and dedication.
+
  
 ## <p align="center">🌐 Connect With Me </p>
 - 📧 Email: **mayank1parashar@gmail.com**  
