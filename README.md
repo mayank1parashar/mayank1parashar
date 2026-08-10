@@ -35,14 +35,7 @@
 
 
  
-## <p align="center">🌐 Connect With Me </p>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank1parashar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-- 📧 Email: **mayank1parashar@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mayank-parashar](#) 
 
-💡 *“Code is like art — every line tells a story.”*  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=28&duration=2000&pause=800&color=008080&center=true&vCenter=true&width=520&lines=Built+for+practice;By+Mayank+Parashar" alt="Typing Animation" />
